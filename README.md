@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>🌱 I’m currently learning-Full stack web development(MERN)<br>💬 Ask me about -full stack developer
+🌱 I’m currently learning- Full stack web development(MERN)<br>💬 Ask me about- full stack developer<br>👨‍💻 All of my projects are available a-t https://effulgent-phoenix-7cef9f.netlify.app<br>📄 Know about my experiences- https://drive.google.com/file/d/17CO-vJpXprP1yQQ6E61ZkvdMGEBc4LWe/view<br>📫 How to reach me- tkumaresantech@gmail.com
 
 
 ## 🌐 Socials:
@@ -13,7 +13,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kumaresan2001&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=kumaresan2001&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=kumaresan2001&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=kumaresan2001&limit=5&theme=radical&combine_all_yearly_contributions=true)
