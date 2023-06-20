@@ -1,7 +1,6 @@
 # 💫 About Me:
-<img align="right" alt="coding"width="400" src="![image](https://github.com/kumaresan2001/kumaresan2001/assets/118879655/30fd1804-2921-4275-9e1b-6d88e53f9b13)
-"
->
+![image](https://github.com/kumaresan2001/kumaresan2001/assets/118879655/e30f07b2-25ea-4698-8020-94a66831918b)
+
 🌱 I’m currently learning- Full stack web development(MERN)<br>💬 Ask me about- full stack developer<br>👨‍💻 All of my projects are available a-t https://effulgent-phoenix-7cef9f.netlify.app<br>📄 Know about my experiences- https://drive.google.com/file/d/17CO-vJpXprP1yQQ6E61ZkvdMGEBc4LWe/view<br>📫 How to reach me- tkumaresantech@gmail.com
 
 
