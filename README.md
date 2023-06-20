@@ -1,6 +1,6 @@
 
 
-<img align="center"  width="100000" src="https://www.digitalsolutionservices.com/img/services/web%20development.gif">
+<img  width="900" src="https://www.digitalsolutionservices.com/img/services/web%20development.gif">
 
 
 # 💫 About Me:
