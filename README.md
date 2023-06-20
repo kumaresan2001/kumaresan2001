@@ -1,6 +1,6 @@
 # 💫 About Me:
 <br>🌱 I’m currently learning-Full stack web development(MERN)<br>💬 Ask me about -full stack developer
-
+<img align="right" alt="coding"width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTezhm0jRhhwwRqvYZXusIGM-j0MT0wIqBeSCFhs5jUi7R2Zw5LaSY0QVlT45q5jkWPoFQ&usqp=CAU>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/KUMARESA T) 
