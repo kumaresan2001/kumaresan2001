@@ -3,9 +3,10 @@
 <img  height="200px" width="1000px" src="https://www.digitalsolutionservices.com/img/services/web%20development.gif">
 
 
-# 💫 About Me:
-<img align="right" alt="coding" width src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl2iBCsGCgR64_UnOQA8rj7Fe_EGa4_eQXkw&usqp=CAU">
-
+ 
+<img align="right"  alt="coding" width src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl2iBCsGCgR64_UnOQA8rj7Fe_EGa4_eQXkw&usqp=CAU">
+<h2 align="center">👋 Hi, I’m @kumaresan</h2>
+👀 I’m interested in Web Development<br>
 🌱 I’m currently learning- Full stack web development(MERN)<br>💬 Ask me about- full stack developer<br>👨‍💻 All of my projects are available a-t https://effulgent-phoenix-7cef9f.netlify.app<br>📄 Know about my experiences- https://drive.google.com/file/d/17CO-vJpXprP1yQQ6E61ZkvdMGEBc4LWe/view<br>📫 How to reach me- tkumaresantech@gmail.com
 
 
