@@ -7,7 +7,7 @@
 <img align="right"  alt="coding" width src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl2iBCsGCgR64_UnOQA8rj7Fe_EGa4_eQXkw&usqp=CAU">
 <h2 align="center">👋 Hi, I’m @kumaresan</h2>
 👀 I’m interested in Web Development<br>
-🌱 I’m currently learning- Full stack web development(MERN)<br>💬 Ask me about- full stack developer<br>👨‍💻 All of my projects are available a-t https://portfolio-kumaresan.netlify.app<br>📄 Know about my experiences- https://drive.google.com/file/d/1c2lkhDSI3ORq_BpfL-K8_sAnNKh7RPu2/view?usp=sharing<br>📫 How to reach me- tkumaresantech@gmail.com
+🌱 I’m currently learning- Full stack web development(MERN)<br>💬 Ask me about- full stack developer<br>👨‍💻 All of my projects are available at https://portfolio-kumaresan.netlify.app<br>📄 Know about my experiences- https://drive.google.com/file/d/1c2lkhDSI3ORq_BpfL-K8_sAnNKh7RPu2/view?usp=sharing<br>📫 How to reach me- tkumaresantech@gmail.com
 
 
 ## 🌐 Socials:
